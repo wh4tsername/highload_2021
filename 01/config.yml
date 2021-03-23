@@ -1,0 +1,6 @@
+---
+proxy:
+  port: 8000
+  bypass:
+    host: httpbin.org
+    port: 80
